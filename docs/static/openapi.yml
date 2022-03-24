@@ -47029,6 +47029,8 @@ definitions:
       method.
   kiethuynh0904.nameservice.nameservice.MsgBuyNameResponse:
     type: object
+  kiethuynh0904.nameservice.nameservice.MsgDeleteNameResponse:
+    type: object
   kiethuynh0904.nameservice.nameservice.MsgSetNameResponse:
     type: object
   kiethuynh0904.nameservice.nameservice.Params:
